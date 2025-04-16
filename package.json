@@ -1,0 +1,24 @@
+{
+  "name": "management--system-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okakaabel/Management--System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okakaabel/Management--System/issues"
+  },
+  "homepage": "https://github.com/okakaabel/Management--System#readme",
+  "dependencies": {
+    "react-icons": "^5.5.0"
+  }
+}
